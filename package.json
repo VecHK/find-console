@@ -1,0 +1,23 @@
+{
+  "name": "find-console",
+  "version": "0.0.1",
+  "description": "查找你的 console 方法",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vec",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VecHK/find-console.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VecHK/find-console/issues"
+  },
+  "homepage": "https://github.com/VecHK/find-console#readme"
+}
